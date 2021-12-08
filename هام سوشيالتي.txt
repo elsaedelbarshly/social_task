@@ -1,0 +1,12 @@
+composer require laravel/socialite
+
+
+
+
+
+
+
+
+
+
+https://www.itsolutionstuff.com/post/laravel-8-socialite-login-with-google-account-exampleexample.html
